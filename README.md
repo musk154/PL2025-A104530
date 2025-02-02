@@ -5,7 +5,7 @@ Processamento de Linguagens 2025
 
 - **Nome:** Tiago Rodrigues Barros 
 - **Número:** A104350  
-![musk](../fotos/musk.jpeg){width=90 height=90}
+![musk](images/musk.jpeg){width=90 height=90}
 
 
 ## Resumo
